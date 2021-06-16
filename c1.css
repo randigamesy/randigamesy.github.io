@@ -12,6 +12,7 @@ height: 512px;
 }
 p {
     padding: 2px 2px 2px 2px;
+    text-align:center;
 }
 .next {
          text-align: center;
